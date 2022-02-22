@@ -5,6 +5,7 @@ metadata:
 spec:
   profile:
     displayName: Guest User
-    email: guest@example.com
+    # email: guest@example.com
+    email: jp.orbit.poc@gmail.com
     picture: https://avatars.dicebear.com/api/avataaars/guest@example.com.svg?background=%23fff
   memberOf: [default-team]
